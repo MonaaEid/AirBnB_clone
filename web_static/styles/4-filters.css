@@ -1,0 +1,35 @@
+section.filters {
+    position: relative;
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    
+}
+/* button {
+    
+  } */
+  
+  section.filters button {
+    font-size: 18px;
+    background-color: #FF5A5F;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-90%);
+    right: 30px;
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out;
+    margin-top: 20px;
+    height: 48px;
+    width: 20%;
+
+  }
+  section.filters button:hover {
+    opacity: 0.9;
+  }
+
