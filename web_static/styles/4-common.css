@@ -6,6 +6,8 @@ body {
     font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .container {
+    /* padding-bottom: 30px; */
+
     max-width: 1000px;
     display: flex;
     /* margin-top: 30px;
